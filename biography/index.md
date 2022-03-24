@@ -7,50 +7,67 @@ TEL: 070-4408-5640 \| E-mail: [<span class="underline">xue9835426@gmail.com</spa
 
 ##### EDUCATION
 
-Meguro Lab, Urban Earthquake Disaster Mitigation Engineering and Disaster Process Management Engineering, The University of Tokyo 2019.8-now
+Urban Earthquake Disaster Mitigation Engineering and Disaster Process Management Engineering Lab, The University of Tokyo, Aug 2019 - now
 
-Chinese Preparatory School for foreign students studying in Japan 2018.10-2019.8
+Chinese Preparatory School for foreign students studying in Japan, Oct 2018 - Aug 2019
 
-M.E. in Mechanical Engineering, Taiyuan University of Technology 2015.9-2018.7
-State Key Laboratory of Explosion Science and Technology, Beijing institute of Technology 2016.9-2018.7
+M.E. in Mechanical Engineering, Taiyuan University of Technology, Sep 2015 - Jul 2018
+
+State Key Laboratory of Explosion Science and Technology, Beijing institute of Technology, Sep 2016 - Jul 2018
+
 Scholarship and awards:
 
--   Academic Scholarship of Taiyuan University of Technology (2017.10)
+-   Academic Scholarship of Taiyuan University of Technology (Oct 2017)
 
--   Academic Scholarship of Taiyuan University of Technology (2018.6)
+-   Academic Scholarship of Taiyuan University of Technology (Jun 2018)
 
--   Japanese Government (MEXT) Scholarship (2018.6)
+-   Japanese Government (MEXT) Scholarship (Jun 2018)
 
--   Outstanding Graduate Thesis (2018.8)
+-   Outstanding Graduate Thesis (Aug 2018)
 
-B.E. in Underground Civil Engineering, Taiyuan University of Technology 2011.9-2015.7
+B.E. in Underground Civil Engineering, Taiyuan University of Technology Sep 2011 - Jul 2015
+
 Scholarship:
 
 -   Academic Scholarship of Taiyuan University of Technology (2012)
 
 -   Academic Scholarship of Taiyuan University of Technology (2013)
 
-##### RESEARCH EXPERIENCE
+##### INTERNSHIP AND ACADEMIC ACTIVITIES
 
-Research on Sympathetic Detonation (Funding: 400,000 RMB per year) 2016.12-2018.7
-State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology
-Duty: main participant
+CAEP Soflware Center for High Performance Numerical Simulation (Beijing, China, February 7, 2022 - February 26, 2022)
 
--   Simulate the sympathetic detonations of cylindrical explosive with different explosion distances, charge weights, and length-diameter (L/D) ratio in air and water.
+RIKEN Center for Computational Science (Kobe, Japan, January 18, 2021 - January 29, 2021)
 
--   Design and arrange sympathetic detonations of TNT to PBX and PBX to PBX.
+Summer School, CSCS - Swiss National Supercomputing Centre (Lugano, Switzerland, July 13, 2020 - July 24, 2020)
 
--   Collect and analyze data and fit an empirical formula widely applicable to describe sympathetic detonations of TNT to PBX and PBX to PBX.
+##### ACADEMIC CONFERENCES
 
-Damage Characteristics of Near-field Underwater Explosion** (Funding: 400,000 RMB per year)
-State Key Laboratory of Explosion Science and Technology, BIT 2016.1-2018.7
-Duty: main participant
+- 「富岳」流体予測革新プロジェクトシンポジウム (Tokyo, Japan, March 09, 2022)
 
--   Simulate bubble pulsation and water jet in an underwater explosion on the free surface, in the free field, and near the structure.
+- SupercomputingAsia (SCA) conference 2022 (Singapore, March 1, 2022 - March 3, 2022)
+- 「富岳」BEGINS - 理化学研究所計算科学研究センターシンポジウム(Kobe, Japan, September 17, 2021)
+- スーパーコンピュータ「富岳」共用開始イベントHPCIフォーラム(Kobe, Japan, March 9, 2021)
+- SupercomputingAsia (SCA) conference 2022 (Singapore, March 1, 2021 - March 3, 2021)
 
--   Focus on the influence of structure on bubble pulsation and water jet, and the influence of damaged structure on bubble pulsation and water jet in the second hit.
+-   The International Society of Multiphysics (Beijing, China, 2017.12)
 
--   Design scale-down experiments of near-free-surface and near-structure underwater explosions.
+-   National Symposium on Warheads and Damage Technology (Beijing, China, 2017.10)
+
+-   The Chinese Congress of Theoretical and Applied Mechanics (Beijing, China, 2017.8)
+
+-   National Conference on Explosion Mechanics (Zhuhai, China, 2016.11)
+
+###### Events, Supercomputing Division, Information Technology Center, The University of Tokyo
+
+- 「OpenFOAM中級・3次元ダムブレイク流れ」January 18, 2022
+- 「OpenFOAM中級」January 19, 2021
+- 「GPUプログラミング入門」December 15, 2020
+- 「OpenACCとMPIによるマルチGPUプログラミング入門」December 22, 2020
+- 「科学技術計算の効率化入門 」October 7, 2020
+- 「 OpenFOAM初級 」September 29, 2020
+- 「OpenFOAM初級 」July 21, 2020
+- 「一日速習：有限要素法プログラミング徹底入門」June 12, 2020
 
 ##### PUBLICATIONS
 
@@ -62,23 +79,39 @@ Duty: main participant
 
 -   **Xue Jian**, Wang Cheng. Study on the Characteristics of Underwater Explosion Bubble near Perforated Solid Wall. The Chinese Congress of Theoretical and Applied Mechanics. CCTAM2017-A31-MS091-0412
 
-##### ACADEMIC ACTIVITIES
+##### RESEARCH EXPERIENCE
 
--   The International Society of Multiphysics (Beijing, China, 2017.12)
+Research on Sympathetic Detonation (Funding: 400,000 RMB per year) Dec 2016 - Jul 2018
 
--   National Symposium on Warheads and Damage Technology (Beijing, China, 2017.10)
+State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology
 
--   The Chinese Congress of Theoretical and Applied Mechanics (Beijing, China, 2017.8)
+Duty: main participant
 
--   National Conference on Explosion Mechanics (Zhuhai, China, 2016.11)
+-   Simulate the sympathetic detonations of cylindrical explosive with different explosion distances, charge weights, and length-diameter (L/D) ratio in air and water.
+
+-   Design and arrange sympathetic detonations of TNT to PBX and PBX to PBX.
+
+-   Collect and analyze data and fit an empirical formula widely applicable to describe sympathetic detonations of TNT to PBX and PBX to PBX.
+
+Damage Characteristics of Near-field Underwater Explosion** (Funding: 400,000 RMB per year) Jan 2016 - Jul 2018
+
+State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology 
+
+Duty: main participant
+
+-   Simulate bubble pulsation and water jet in an underwater explosion on the free surface, in the free field, and near the structure.
+
+-   Focus on the influence of structure on bubble pulsation and water jet, and the influence of damaged structure on bubble pulsation and water jet in the second hit.
+
+-   Design scale-down experiments of near-free-surface and near-structure underwater explosions.
 
 ##### SKILLS
 
--   Python, c++, MPI, OpenMP
--   Smooth Particle Dynamics, Finite Difference Methods, Material Points Methods
+-   C++, Python, MPI, OpenMP
+-   Smooth Particle Dynamics(SPH), Material Points Methods(MPM), Finite Difference Methods
 -   Software: proficiency in Ansys Autodyn, Ls-dyna, Abqus, Origin and AutoCAD.
 
-##### Languages
+##### LANGUAGES
 
 -   Mandarin: Native.
 
