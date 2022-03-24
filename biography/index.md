@@ -73,7 +73,7 @@ Summer School, CSCS - Swiss National Supercomputing Centre (Lugano, Switzerland,
 
 -   Zhang changsuo, **Xue Jian,** Wang Cheng. Study on the Characteristics of Underwater Explosion Bubble near Perforated Solid Wall. Transactions of Beijing Institute of Technology. C170144
 
--   Song ShuiZhou, Zhang Changsuo, **Xue Jian**. Research on the Application of Blast-Unloading in Increasing the Lump Coal Rate of Fully-Mechanized Mining Face. Coal Technology (accepted)
+-   Song ShuiZhou, Zhang Changsuo, **Xue Jian**. Research on the Application of Blast-Unloading in Increasing the Lump Coal Rate of Fully-Mechanized Mining Face. Coal Technology. 2018, 37(3): 52-54
 
 -   **Xue Jian**, Wang Cheng. Motional Characteristic of Underwater Explosion Bubble near Circular Hole of Solid Wall. The International Society of Multiphysics. MC1755
 
