@@ -3,7 +3,7 @@
 
 #  XUE JIAN
 
-TEL: 070-4408-5640 \| E-mail: [<span class="underline">xue9835426@gmail.com</span>](mailto:xue9835426@gmail.com)
+E-mail: [<span class="underline">xue9835426@gmail.com</span>](mailto:xue9835426@gmail.com)
 
 ##### EDUCATION
 

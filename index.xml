@@ -4,25 +4,19 @@
         <link>https://Mysticor.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xue9835426@gmail.com (XUE JIAN)</managingEditor>
-            <webMaster>xue9835426@gmail.com (XUE JIAN)</webMaster><lastBuildDate>Thu, 10 Mar 2022 22:56:42 &#43;0900</lastBuildDate>
+            <webMaster>xue9835426@gmail.com (XUE JIAN)</webMaster><lastBuildDate>Tue, 26 Jul 2022 22:08:24 &#43;0900</lastBuildDate>
             <atom:link href="https://Mysticor.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>First_post</title>
-    <link>https://Mysticor.github.io/first_post/</link>
-    <pubDate>Thu, 10 Mar 2022 22:56:42 &#43;0900</pubDate>
+    <title>No.100 LeetCode Completed</title>
+    <link>https://Mysticor.github.io/leetcode100/</link>
+    <pubDate>Tue, 26 Jul 2022 22:08:24 &#43;0900</pubDate>
     <author>Author</author>
-    <guid>https://Mysticor.github.io/first_post/</guid>
+    <guid>https://Mysticor.github.io/leetcode100/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/featured-image.png" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>Jian&#39;s Casual Photos</title>
-    <link>https://Mysticor.github.io/jians-casual-photo/</link>
-    <pubDate>Thu, 10 Mar 2022 22:40:45 &#43;0900</pubDate>
-    <author>Author</author>
-    <guid>https://Mysticor.github.io/jians-casual-photo/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/featured-image.png" referrerpolicy="no-referrer">
-            </div>]]></description>
+                <img src="/LeetCode_record.png" referrerpolicy="no-referrer">
+            </div>Almost two months to finally complete the No.100 LeetCode.
+Include:
+Data Structure Array String Linked List Binary Tree Stack and Queue Hash Table Algorithm Greedy algorithm DFS BFS Backtracking algorithm Next to do:
+Algorithm Monotonic stack programming problems No pains, no gains]]></description>
 </item></channel>
 </rss>

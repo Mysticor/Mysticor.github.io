@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - Jian&#39;s Site</title>
-        <link>https://Mysticor.github.io/posts/</link>
-        <description>All Posts | Jian&#39;s Site</description>
+        <title>LeetCode - Tag - Jian&#39;s Site</title>
+        <link>https://Mysticor.github.io/tags/leetcode/</link>
+        <description>LeetCode - Tag - Jian&#39;s Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xue9835426@gmail.com (XUE JIAN)</managingEditor>
-            <webMaster>xue9835426@gmail.com (XUE JIAN)</webMaster><lastBuildDate>Tue, 26 Jul 2022 22:08:24 &#43;0900</lastBuildDate><atom:link href="https://Mysticor.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>xue9835426@gmail.com (XUE JIAN)</webMaster><lastBuildDate>Tue, 26 Jul 2022 22:08:24 &#43;0900</lastBuildDate><atom:link href="https://Mysticor.github.io/tags/leetcode/" rel="self" type="application/rss+xml" /><item>
     <title>No.100 LeetCode Completed</title>
     <link>https://Mysticor.github.io/leetcode100/</link>
     <pubDate>Tue, 26 Jul 2022 22:08:24 &#43;0900</pubDate>
