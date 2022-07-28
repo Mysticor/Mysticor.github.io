@@ -7,6 +7,8 @@ E-mail: [<span class="underline">xue9835426@gmail.com</span>](mailto:xue9835426@
 
 ##### EDUCATION
 
+M.E. in Computer Science, Georgia Institute of Technology, Mar 2023 - Sep 2024
+
 Urban Earthquake Disaster Mitigation Engineering and Disaster Process Management Engineering Lab, The University of Tokyo, Aug 2019 - now
 
 Chinese Preparatory School for foreign students studying in Japan, Oct 2018 - Aug 2019
@@ -116,6 +118,14 @@ Duty: main participant
 -   Mandarin: Native.
 
 -   English: Fluent.
+	-   TOEFL: 107
+
+	-   GRE: V162+Q167+A3.5
 
 -   Japanese: Intermediate.
+	-   JLPT N2
+
+
+
+{{< image src="/images/avatar_large.png" caption="" >}}
 
