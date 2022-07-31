@@ -11,7 +11,7 @@ M.E. in Computer Science, Georgia Institute of Technology, Mar 2023 - Sep 2024
 
 Ph.D. in Civil Engineering, Urban Earthquake Disaster Mitigation Engineering and Disaster Process Management Engineering Lab, The University of Tokyo, Aug 2019 - now
 
-Chinese Preparatory School for foreign students studying in Japan, Oct 2018 - Aug 2019
+Preparatory School for Chinese Students to Japan, Oct 2018 - Aug 2019
 
 M.E. in Mechanical Engineering, Taiyuan University of Technology, Sep 2015 - Jul 2018
 
@@ -120,7 +120,7 @@ Duty: main participant
 -   English: Fluent.
 	-   TOEFL: 107
 
-	-   GRE: V162+Q167+A3.5
+	-   GRE: V162 + Q167 + A3.5
 
 -   Japanese: Intermediate.
 	-   JLPT N2
