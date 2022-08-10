@@ -13,7 +13,7 @@ Ph.D. in Civil Engineering, Urban Earthquake Disaster Mitigation Engineering and
 
 Preparatory School for Chinese Students to Japan, Oct 2018 - Aug 2019
 
-State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology, Sep 2016 - Jul 2018
+M.E. in Mechanical Engineering, State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology, Sep 2016 - Jul 2018
 
 M.E. in Mechanical Engineering, Taiyuan University of Technology, Sep 2015 - Jul 2018
 
