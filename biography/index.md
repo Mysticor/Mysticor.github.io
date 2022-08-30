@@ -7,7 +7,7 @@ E-mail: [<span class="underline">xue9835426@gmail.com</span>](mailto:xue9835426@
 
 ##### EDUCATION
 
-M.E. in Computer Science, Georgia Institute of Technology, Mar 2023 - Sep 2024
+M.S. in Computer Science, Georgia Institute of Technology, Mar 2023 - Sep 2024
 
 Ph.D. in Civil Engineering, Urban Earthquake Disaster Mitigation Engineering and Disaster Process Management Engineering Lab, The University of Tokyo, Aug 2019 - now
 
