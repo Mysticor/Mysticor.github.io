@@ -37,7 +37,7 @@ Scholarship:
 
 ##### INTERNSHIP AND ACADEMIC ACTIVITIES
 
-CAEP Soflware Center for High Performance Numerical Simulation (Beijing, China, February 7, 2022 - February 26, 2022)
+CAEP Software Center for High Performance Numerical Simulation (Beijing, China, February 7, 2022 - February 26, 2022)
 
 RIKEN Center for Computational Science (Kobe, Japan, January 18, 2021 - January 29, 2021)
 
