@@ -7,41 +7,37 @@ E-mail: [<span class="underline">xue9835426@gmail.com</span>](mailto:xue9835426@
 
 ##### EDUCATION
 
-M.S. in Computer Science, Georgia Institute of Technology, Mar 2023 - Sep 2024
+**Georgia Institute of Technology** Mar 2023 - now
+M.E. in Computer Science
 
-Ph.D. in Civil Engineering, Urban Earthquake Disaster Mitigation Engineering and Disaster Process Management Engineering Lab, The University of Tokyo, Aug 2019 - now
+**The University of Tokyo**, Process Management Engineering Lab,  Aug 2019 - now
+Ph.D. in Civil Engineering, Urban Earthquake Disaster Mitigation Engineering and Disaster
 
-Preparatory School for Chinese Students to Japan, Oct 2018 - Aug 2019
+**Beijing institute of Technology**, State Key Laboratory of Explosion Science and Technology Sep 2016 - Jul 2018
 
-M.E. in Mechanical Engineering, State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology, Sep 2016 - Jul 2018
+**Taiyuan University of Technology** Sep 2015 - Jul 2018
+M.E. in Mechanical Engineering
 
-M.E. in Mechanical Engineering, Taiyuan University of Technology, Sep 2015 - Jul 2018
-
-Scholarship and awards:
-
--   Academic Scholarship of Taiyuan University of Technology (Oct 2017)
-
--   Academic Scholarship of Taiyuan University of Technology (Jun 2018)
-
--   Japanese Government (MEXT) Scholarship (Jun 2018)
-
--   Outstanding Graduate Thesis (Aug 2018)
-
-B.E. in Underground Civil Engineering, Taiyuan University of Technology Sep 2011 - Jul 2015
-
-Scholarship:
-
--   Academic Scholarship of Taiyuan University of Technology (2012)
-
--   Academic Scholarship of Taiyuan University of Technology (2013)
+**Taiyuan University of Technology** Sep 2011 - Jul 2015
+B.E. in Underground Civil Engineering
 
 ##### INTERNSHIP AND ACADEMIC ACTIVITIES
 
-CAEP Software Center for High Performance Numerical Simulation (Beijing, China, February 7, 2022 - February 26, 2022)
+CAEP Soflware Center for High Performance Numerical Simulation
+Beijing, China, February 7, 2022 - February 26, 2022
+- Development of parallel algorithm for SPH based on GPU
+- Improving the accuracy of SPH boundary calculations through ghost particle correction
 
-RIKEN Center for Computational Science (Kobe, Japan, January 18, 2021 - January 29, 2021)
+RIKEN Center for Computational Science
+Kobe, Japan, January 18, 2021 - January 29, 2021
+- Design and Debugging of Soil Liquefaction Calculation Algorithm
+- Development of parallel algorithm for landslide simulation and debugging/optimization on the Fugaku supercomputer platform
 
-Summer School, CSCS - Swiss National Supercomputing Centre (Lugano, Switzerland, July 13, 2020 - July 24, 2020)
+Summer School, CSCS - Swiss National Supercomputing Centre
+Lugano, Switzerland, July 13, 2020 - July 24, 2020
+- Intro GPU architecture
+- CUDA, OpenACC and python code in HPC
+- Introduction to Distrubuted training for Machine Learning and Deep Learning
 
 ##### ACADEMIC CONFERENCES
 
@@ -81,21 +77,58 @@ Summer School, CSCS - Swiss National Supercomputing Centre (Lugano, Switzerland,
 
 -   **Xue Jian**, Wang Cheng. Study on the Characteristics of Underwater Explosion Bubble near Perforated Solid Wall. The Chinese Congress of Theoretical and Applied Mechanics. CCTAM2017-A31-MS091-0412
 
-##### RESEARCH EXPERIENCE
+##### REPRESENTATIVE HONORS
+-   Academic Scholarship of Taiyuan University of Technology (Oct 2017)
+-   Academic Scholarship of Taiyuan University of Technology (Jun 2018)
+-   Japanese Government (MEXT) Doctoral Scholarship (Jun 2018)
+-   Outstanding Graduate Thesis (Aug 2018)
+-   Academic Scholarship of Taiyuan University of Technology (2013)
+-   Academic Scholarship of Taiyuan University of Technology (2012)
 
-Research on Sympathetic Detonation (Funding: 400,000 RMB per year) Dec 2016 - Jul 2018
+##### CERTIFICATES
+- Completion Certificate for the Computational Science Alliance
+   University of Tokyo Computational Science Alliance, Issued Sep 2022, Credential ID No. G-0054
+	
+- Certificate of Completion for the Basic Course in Deep Learning 
+   Graduate School of Engineering, University of Tokyo, Issued Aug 2022, Credential ID 2022292000
+	
+- Certificate of Completion for the Basic Course in Data Science 
+   Graduate School of Information Science and Technology, University of Tokyo, Issued Mar 2022, Credential ID No. 基ー０５３９
+	
+- Certificate of Completion for the Annual Advanced Artificial Intelligence Course 
+   Next Generation Artificial Intelligence Research Center, University of Tokyo, Issued Jan 2022
 
+##### PARTICIPATED RESEARCH PROJECTS
+
+Post-disaster Analysis of Atami Debris Flow Numerical Simulation Based on Lidar Point Cloud Processing and Modeling. 
+Dec 2021 - now
+Institute of Industrial Science, The University of Tokyo
+
+- Large-scale drone point cloud classification
+	
+- Point cloud classification, clipping, denoising and thinning and interpolation to supplement gaps in point clouds
+	
+- Creating 3D model based on point cloud information
+	
+- Numerical simulation and analysis of debris flow process reconstruction based on Smoothed Particle Hydrodynamics (SPH)
+	
+- Debris flow impact Force, slide distance, and deposition height analysis and prediction based on deep learning models
+
+
+
+Numerical Simulation of Impact-Resistant Structures‘s Dynamic Response and Deformation under High Load Conditions
+Dec 2016 - Jul 2018
 State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology
 
-Duty: main participant
+- CAD modeling of impact-resistant structures
+  
+- Comparison and verification of numerical simulation results with experimental data, and designing numerical simulations to replicate different working conditions in research papers
+  
+- Repeated analysis of stress concentration points and fracture-prone areas in impact-resistant structures based on numerical simulation results, with subsequent optimization and improvement of the structures
 
--   Simulate the sympathetic detonations of cylindrical explosive with different explosion distances, charge weights, and length-diameter (L/D) ratio in air and water.
 
--   Design and arrange sympathetic detonations of TNT to PBX and PBX to PBX.
 
--   Collect and analyze data and fit an empirical formula widely applicable to describe sympathetic detonations of TNT to PBX and PBX to PBX.
-
-Damage Characteristics of Near-field Underwater Explosion** (Funding: 400,000 RMB per year) Jan 2016 - Jul 2018
+Damage Characteristics of Near-field Underwater Explosion (Funding: 400,000 RMB per year) Jan 2016 - Jul 2018
 
 State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology 
 

@@ -1,7 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - My New Hugo Site</title>
+        <title>Tags - Tag - Jian&#39;s Site</title>
         <link>https://Mysticor.github.io/tags/</link>
-        <description>Tags - Tag - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://Mysticor.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+        <description>Tags - Tag - Jian&#39;s Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xue9835426@gmail.com (XUE JIAN)</managingEditor>
+            <webMaster>xue9835426@gmail.com (XUE JIAN)</webMaster><lastBuildDate>Tue, 26 Jul 2022 22:08:24 &#43;0900</lastBuildDate><atom:link href="https://Mysticor.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>LeetCode</title>
+    <link>https://Mysticor.github.io/tags/leetcode/</link>
+    <pubDate>Tue, 26 Jul 2022 22:08:24 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://Mysticor.github.io/tags/leetcode/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>
