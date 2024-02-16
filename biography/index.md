@@ -10,8 +10,7 @@ E-mail: [<span class="underline">xue9835426@gmail.com</span>](mailto:xue9835426@
 **Georgia Institute of Technology** Mar 2023 - now
 M.E. in Computer Science
 
-**The University of Tokyo**, Process Management Engineering Lab,  Aug 2019 - now
-Ph.D. in Civil Engineering, Urban Earthquake Disaster Mitigation Engineering and Disaster
+**The University of Tokyo**, Ph.D. in Disaster Prevention Informatics , Urban Earthquake Disaster Mitigation Engineering and Disaster Process Management Engineering Lab,  Aug 2019 - now
 
 **Beijing institute of Technology**, State Key Laboratory of Explosion Science and Technology Sep 2016 - Jul 2018
 
