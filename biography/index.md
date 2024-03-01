@@ -72,7 +72,7 @@ Lugano, Switzerland, July 13, 2020 - July 24, 2020
 
 -   Song ShuiZhou, Zhang Changsuo, **Xue Jian**. Research on the Application of Blast-Unloading in Increasing the Lump Coal Rate of Fully-Mechanized Mining Face. Coal Technology. 2018, 37(3): 52-54
 
--   **Xue Jian**, Wang Cheng. Motional Characteristic of Underwater Explosion Bubble near Circular Hole of Solid Wall. The International Society of Multiphysics. MC1755
+-   **Xue Jian**, Wang Cheng. Motional Characteristic of Underwater Explosion Bubble near Circular Hole of Solid Wall. The International Conference of Multiphysics. MC1755
 
 -   **Xue Jian**, Wang Cheng. Study on the Characteristics of Underwater Explosion Bubble near Perforated Solid Wall. The Chinese Congress of Theoretical and Applied Mechanics. CCTAM2017-A31-MS091-0412
 
