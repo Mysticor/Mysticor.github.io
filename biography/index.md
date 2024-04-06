@@ -68,7 +68,7 @@ Lugano, Switzerland, July 13, 2020 - July 24, 2020
 
 ##### PUBLICATIONS
 
-- **XUE JIAN**, Meguro Kimiro, SPH Based Numerical Analysis of 2021 Atami Debris Flows. Global Forum on Disaster Solutions (GFDS2024). #79-183
+-   **XUE JIAN**, Meguro Kimiro, SPH Based Numerical Analysis of 2021 Atami Debris Flows. Global Forum on Disaster Solutions (GFDS2024). #79-183
 
 -   Zhang changsuo, **Xue Jian,** Wang Cheng. Study on the Characteristics of Underwater Explosion Bubble near Perforated Solid Wall. Transactions of Beijing Institute of Technology. C170144
 
