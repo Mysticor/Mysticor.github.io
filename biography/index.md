@@ -30,7 +30,7 @@ Beijing, China, February 7, 2022 - February 26, 2022
 RIKEN Center for Computational Science
 Kobe, Japan, January 18, 2021 - January 29, 2021
 - Design and Debugging of Soil Liquefaction Calculation Algorithm
-- Development of parallel algorithm for landslide simulation and debugging/optimization on the Fugaku supercomputer platform
+- Development of parallel algorithm for debris flow simulation and debugging/optimization on the Fugaku supercomputer platform
 
 Summer School, CSCS - Swiss National Supercomputing Centre
 Lugano, Switzerland, July 13, 2020 - July 24, 2020
