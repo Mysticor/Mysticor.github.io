@@ -12,9 +12,37 @@
     <guid>https://Mysticor.github.io/leetcode100/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/LeetCode_record.png" referrerpolicy="no-referrer">
-            </div>Almost two months to finally complete the No.100 LeetCode.
-Include:
-Data Structure Array String Linked List Binary Tree Stack and Queue Hash Table Algorithm Greedy algorithm DFS BFS Backtracking algorithm Next to do:
-Algorithm Monotonic stack programming problems No pains, no gains]]></description>
+            </div><p>Almost two months to finally complete the No.100 LeetCode.</p>
+<p>Include:</p>
+<ul>
+<li>Data Structure
+<ul>
+<li>Array</li>
+<li>String</li>
+<li>Linked List</li>
+<li>Binary Tree</li>
+<li>Stack and Queue</li>
+<li>Hash Table</li>
+</ul>
+</li>
+<li>Algorithm
+<ul>
+<li>Greedy algorithm</li>
+<li>DFS</li>
+<li>BFS</li>
+<li>Backtracking algorithm</li>
+</ul>
+</li>
+</ul>
+<p>Next to do:</p>
+<ul>
+<li>Algorithm
+<ul>
+<li>Monotonic stack</li>
+<li>programming problems</li>
+</ul>
+</li>
+</ul>
+<p><strong>No pains, no gains</strong></p>]]></description>
 </item></channel>
 </rss>

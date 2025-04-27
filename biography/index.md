@@ -10,7 +10,9 @@ E-mail: [<span class="underline">xue9835426@gmail.com</span>](mailto:xue9835426@
 **Georgia Institute of Technology** Mar 2023 - now
 M.E. in Computer Science
 
-**The University of Tokyo**, Ph.D. in Disaster Prevention Informatics , Urban Earthquake Disaster Mitigation Engineering and Disaster Process Management Engineering Lab,  Aug 2019 - now
+**The University of Tokyo**, Ph.D. in Disaster Prevention Informatics , Urban Earthquake Disaster Mitigation Engineering and Disaster Process Management Engineering Lab,  Sep 2020 - Oct 2024
+
+**The University of Tokyo**, Research student, Urban Earthquake Disaster Mitigation Engineering and Disaster Process Management Engineering Lab,  Aug 2019 - Sep 2020
 
 **Beijing institute of Technology**, State Key Laboratory of Explosion Science and Technology Sep 2016 - Jul 2018
 
@@ -21,6 +23,12 @@ M.E. in Mechanical Engineering
 B.E. in Underground Civil Engineering
 
 ##### INTERNSHIP AND ACADEMIC ACTIVITIES
+
+Institute of Industrial Science, The University of Tokyo
+ Tokyo, Japan, October 2020 - September 2024
+
+- Assisted undergraduate and graduate students with their daily studies and research, providing academic guidance
+- Participated in planning and organizing academic research activities
 
 CAEP Soflware Center for High Performance Numerical Simulation
 Beijing, China, February 7, 2022 - February 26, 2022
@@ -67,6 +75,11 @@ Lugano, Switzerland, July 13, 2020 - July 24, 2020
 - 「一日速習：有限要素法プログラミング徹底入門」June 12, 2020
 
 ##### PUBLICATIONS
+
+- **Xue Jian**, Hui Yu, Su Bingxin, Hoileong Lee, DEMEF: Dynamic Entity Alignment Enhanced by Logic Rule and Multimodal Fusion, Expert Systems with Applications, ESWA-D-25-09465
+- **Xue Jian**, Hui YU, Haoguo XU, Su Bingxin, A Hybrid Framework Integrating Negative Sample Learning and Attention-Feature Decoupling for Enhanced SAR Vehicle Detection, Neurocomputing, NEUCOM-D-25-02262.
+	
+- Su Bingxin, **Xue jian**, Zhong Jingxing, an Junhao, SRUnet: A Model Integrating Super-Resolution Module and UNet for Marine Oil Spill Segmentation Tasks, Expert Systems with Applications（Under review, Co-first author)
 
 -   **XUE JIAN**, Meguro Kimiro. SPH Based Numerical Analysis of 2021 Atami Debris Flows. Global Forum on Disaster Solutions (GFDS). #79-183
 
