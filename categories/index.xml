@@ -1,8 +1,11 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Categories - Category - Jian&#39;s Site</title>
-        <link>https://Mysticor.github.io/categories/</link>
-        <description>Categories - Category - Jian&#39;s Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xue9835426@gmail.com (XUE JIAN)</managingEditor>
-            <webMaster>xue9835426@gmail.com (XUE JIAN)</webMaster><atom:link href="https://Mysticor.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jian&#39;s Site</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Jian&#39;s Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>
